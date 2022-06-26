@@ -14,6 +14,10 @@ A Simple Looking Stactic Tribute Page
 - HTML
 - CSS
 
+
+![The-Tribute-Website-A-P-J-Abdul-Kalam](https://user-images.githubusercontent.com/85782825/175826646-888e6335-49dd-4c7b-b6b8-f36f1d324500.png)
+
+
 ### Front End:
 
 
