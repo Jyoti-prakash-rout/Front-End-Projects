@@ -1,4 +1,4 @@
-# A Simple looking Static Tribute Page on the Great Scientest APJ Abdul Kalam
+# A Simple looking Static Tribute Page on  APJ Abdul Kalam
 
 
 ## Description:
