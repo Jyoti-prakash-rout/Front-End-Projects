@@ -22,7 +22,6 @@ git clone https://github.com/<YOUR_USERNAME>/Front-End-Projects.git
 cd Front-End-Projects.git
 ```
 
-Once you submit a PR, we'll respond as soon as possible so we can take a look at what you've made!
 
 ## Making a Pull Request? 🔁
 
@@ -37,5 +36,7 @@ git push
 ```
 
 Once finished, you can create a pull request!
+
+Once you submit a PR, I'll respond as soon as possible so I can take a look at what you've made!
 
 Is it your first time? Check out [this link](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to learn how to submit a pull request.
