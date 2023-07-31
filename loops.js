@@ -71,7 +71,7 @@ for (let i = 0; i <= uptoNumber; i++) {
 
 
 
-    const defaultPin = 0000;
+    const defaultPin = 000;
     const guessMessage = "Please make your guess";
     const wrongMessage = "Sorry that was wrong";
     const correctMessage = "That was correct";
