@@ -11,16 +11,3 @@
 // const wallOne = calculateArea(50, 150);
 
 
-function printMessage(message, callback) {
-    console.log(message);
-    callback();
-}
-
-function sayGoodbye() {
-    console.log('Goodbye!');
-}
-
-printMessage('Hello, World!', sayGoodbye);
-
-
-printMessage("Hello", () => console.log("Hello World"))
