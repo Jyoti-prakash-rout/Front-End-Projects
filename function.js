@@ -8,4 +8,4 @@ function calculateArea(height, width) {
     return area;
 }
 
-const wallOne = calculateArea(100, 150);
+const wallOne = calculateArea(50, 150);
