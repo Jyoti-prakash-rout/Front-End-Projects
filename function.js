@@ -3,9 +3,24 @@
 // const area = height * width;
 // console.log(area); 
 
-function calculateArea(height, width) {
-    const area = height * width;
-    return area;
+// function calculateArea(height, width) {
+//     const area = height * width;
+//     return area;
+// }
+
+// const wallOne = calculateArea(50, 150);
+
+
+function printMessage(message, callback) {
+    console.log(message);
+    callback();
 }
 
-const wallOne = calculateArea(50, 150);
+function sayGoodbye() {
+    console.log('Goodbye!');
+}
+
+printMessage('Hello, World!', sayGoodbye);
+
+
+printMessage("Hello", () => console.log("Hello World"))
